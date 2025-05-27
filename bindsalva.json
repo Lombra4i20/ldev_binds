@@ -1,0 +1,16 @@
+{
+    "steam:11000016b279254": {
+        "numpad1": {
+            "comando": "ccoat"
+        },
+        "enter": {
+            "comando": "glove"
+        },
+        "f1": {
+            "comando": "nc"
+        },
+        "e": {
+            "comando": "rc"
+        }
+    }
+}
